@@ -1,0 +1,591 @@
+{
+  "source": "mcr_toolbox2_updated_070721.rar",
+  "sha256": "d904bafecf63f80cb740a1971544c50041806a9f24b6806564d74a306512a0d4",
+  "files": [
+    {
+      "path": "mcr_toolbox2/.dropbox",
+      "size": 34
+    },
+    {
+      "path": "mcr_toolbox2/.dropbox.attr",
+      "size": 2
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als2013.fig",
+      "size": 84459
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als2013.m",
+      "size": 16477
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als2013fast.fig",
+      "size": 15181
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als2013fast.m",
+      "size": 16811
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/alsgui.fig",
+      "size": 17219
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/alsgui.m",
+      "size": 15834
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/alsOptimization.m",
+      "size": 54791
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_info.fig",
+      "size": 7565
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_info.m",
+      "size": 2919
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_parameters.fig",
+      "size": 20829
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_parameters.m",
+      "size": 15910
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_parameters_reload.fig",
+      "size": 19943
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_parameters_reload.m",
+      "size": 15188
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_res.fig",
+      "size": 39508
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/als_res.m",
+      "size": 15635
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/bilinear_info.fig",
+      "size": 50341
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/bilinear_info.m",
+      "size": 10590
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/clas3way.fig",
+      "size": 23164
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/clas3way.m",
+      "size": 46558
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/closure.m",
+      "size": 6957
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/closurels.m",
+      "size": 3968
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/closure_no.fig",
+      "size": 37581
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/closure_no.m",
+      "size": 9723
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/columnModeConstraints.fig",
+      "size": 52639
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/columnModeConstraints.m",
+      "size": 48467
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/columnMultiConstraints.fig",
+      "size": 58466
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/columnMultiConstraints.m",
+      "size": 78233
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/conctomap3Dscirreg.m",
+      "size": 2158
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/correlation_info.fig",
+      "size": 23200
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/correlation_info.m",
+      "size": 6314
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/correlCons.fig",
+      "size": 13542
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/correlCons.m",
+      "size": 14577
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/correlCons_reload.fig",
+      "size": 17495
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/correlCons_reload.m",
+      "size": 10442
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/efa.m",
+      "size": 4184
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/efagui.fig",
+      "size": 25823
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/efagui.m",
+      "size": 12781
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/efard.m",
+      "size": 7962
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/eff.m",
+      "size": 2124
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/eq2mat_hard.m",
+      "size": 6167
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/equations.m",
+      "size": 580
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/fnnls.m",
+      "size": 2482
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/gui_conc.m",
+      "size": 281
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/hline.m",
+      "size": 633
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/images_info.fig",
+      "size": 20712
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/images_info.m",
+      "size": 13804
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/images_plots.fig",
+      "size": 42284
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/images_plots.m",
+      "size": 15260
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/interesp.m",
+      "size": 1710
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/KineticCred.fig",
+      "size": 7845
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/KineticCred.m",
+      "size": 3158
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kineticHM.fig",
+      "size": 44611
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kineticHM.m",
+      "size": 27403
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kineticHM_multi.fig",
+      "size": 49761
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kineticHM_multi.m",
+      "size": 34771
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kinetic_info.fig",
+      "size": 26082
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kinetic_info.m",
+      "size": 10846
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kin_help.fig",
+      "size": 7736
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/kin_help.m",
+      "size": 3095
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/lofquadril.m",
+      "size": 1569
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/loftril.m",
+      "size": 1615
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/manComp.fig",
+      "size": 8206
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/manComp.m",
+      "size": 5669
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/manEst.fig",
+      "size": 21595
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/manEst.m",
+      "size": 6478
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/applicons.fig",
+      "size": 21280
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/applicons.m",
+      "size": 13733
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/change_opt_param.fig",
+      "size": 24465
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/change_opt_param.m",
+      "size": 23059
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/fmaxmin.m",
+      "size": 485
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/fmaxmin0.m",
+      "size": 928
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/lofr.M",
+      "size": 239
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbands.m",
+      "size": 9576
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbands0.m",
+      "size": 9332
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbands0b.m",
+      "size": 10637
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbandsg.fig",
+      "size": 42309
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbandsg.m",
+      "size": 44633
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbandsg_connected.fig",
+      "size": 42061
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbandsg_connected.m",
+      "size": 44843
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbands_fr.fig",
+      "size": 40271
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mcrbands_fr.m",
+      "size": 9456
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mycons.m",
+      "size": 3927
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mycons0.m",
+      "size": 3161
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/mycons0_old.m",
+      "size": 2825
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/normgui.fig",
+      "size": 22769
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/normgui.m",
+      "size": 10913
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/normgui_old.fig",
+      "size": 19041
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/normgui_old.m",
+      "size": 12497
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/norm_old.fig",
+      "size": 7659
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/norm_old.m",
+      "size": 4228
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/push_isp.fig",
+      "size": 17721
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/push_isp.m",
+      "size": 11373
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/tconv.m",
+      "size": 274
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/unimodg.m",
+      "size": 1326
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/valueg.fig",
+      "size": 11664
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/valueg.m",
+      "size": 4281
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/valueg_old.fig",
+      "size": 11182
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/valueg_old.m",
+      "size": 4424
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/view_csel.fig",
+      "size": 6886
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mcrbandsC/view_csel.m",
+      "size": 3246
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/mlpca.m",
+      "size": 4719
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/multiwayC.fig",
+      "size": 25874
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/multiwayC.m",
+      "size": 22083
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/multiway_parameters.m",
+      "size": 1127
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/nglmglob.m",
+      "size": 1767
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/nnls.m",
+      "size": 2018
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/normv2.m",
+      "size": 149
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/normv3.m",
+      "size": 348
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/optim_info.fig",
+      "size": 27781
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/optim_info.m",
+      "size": 10196
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/opt_kinglob.m",
+      "size": 1295
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/pcarep.m",
+      "size": 734
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/plot_dades.fig",
+      "size": 20767
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/plot_dades.m",
+      "size": 5872
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/pure.m",
+      "size": 1730
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/puregui.fig",
+      "size": 32117
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/puregui.m",
+      "size": 11223
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/quadril.m",
+      "size": 3222
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/quadrilinear_info.fig",
+      "size": 64211
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/quadrilinear_info.m",
+      "size": 13470
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/rcalcglob.m",
+      "size": 444
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/rowModeConstraints.fig",
+      "size": 54111
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/rowModeConstraints.m",
+      "size": 48662
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/rowMultiConstraints.fig",
+      "size": 62898
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/rowMultiConstraints.m",
+      "size": 82798
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/selecvar.fig",
+      "size": 8029
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/selecvar.m",
+      "size": 4874
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/svdgui.fig",
+      "size": 43949
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/svdgui.m",
+      "size": 9260
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/svd_selection.fig",
+      "size": 9924
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/svd_selection.m",
+      "size": 4382
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/trilin.m",
+      "size": 2991
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/trilinear_info.fig",
+      "size": 50857
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/trilinear_info.m",
+      "size": 11027
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/tuck2.m",
+      "size": 2064
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/unimod.m",
+      "size": 1383
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/weighted.fig",
+      "size": 22127
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/weighted.m",
+      "size": 13196
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/wmat.m",
+      "size": 215
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/yregrnew.m",
+      "size": 2342
+    },
+    {
+      "path": "mcr_toolbox2/ALS routines/yregr_plotfin.m",
+      "size": 1604
+    },
+    {
+      "path": "mcr_toolbox2/desktop.ini",
+      "size": 320
+    },
+    {
+      "path": "mcr_toolbox2/mcr_main.fig",
+      "size": 27736
+    },
+    {
+      "path": "mcr_toolbox2/mcr_main.m",
+      "size": 24495
+    }
+  ],
+  "decision": "Referência funcional principal do futuro módulo MCR, por solicitação do usuário. Não implementado na v0.1."
+}
